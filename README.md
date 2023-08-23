@@ -22,5 +22,3 @@ git clone git@github.com:<you>/ajax-project.git
 3. cd ajax-project
 4. npm ci
   
-
-fake commit
